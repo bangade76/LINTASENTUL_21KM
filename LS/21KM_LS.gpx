@@ -37,7 +37,7 @@
     <extensions>
       <gpx_style:line>
         <gpx_style:color>ff3370</gpx_style:color>
-      </gpx_style:line>
+      </gpx_style:line>null
     </extensions>
     <trkseg>
       <trkpt lat="-6.646821" lon="106.949095">
